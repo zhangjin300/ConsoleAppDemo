@@ -48,5 +48,8 @@ public class Program
         person.Age = 30;
 
         Console.WriteLine($"Hi, I'm {person.Name}, and I'm {person.Age} years old.");
+        person.Name = "赵六";
+        person.Age = 40;
+        Console.WriteLine($"Hi, I'm {person.Name}, and I'm {person.Age} years old.");
     }
 }
