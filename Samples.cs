@@ -44,7 +44,7 @@ public class Program
         // 创建一个 Person 对象
         Person person = new Person();
 
-        person.Name = "王五";
+        person.Name = "李四";
         person.Age = 30;
 
         Console.WriteLine($"Hi, I'm {person.Name}, and I'm {person.Age} years old.");
