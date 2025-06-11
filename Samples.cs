@@ -47,14 +47,6 @@ public class Program
         person.Name = "李四";
         person.Age = 30;
 
-        Console.WriteLine($"Hi, I'm {person.Name}, and I'm {person.Age} years old.");
-        person.Name = "赵六";
-        person.Age = 40;
-        Console.WriteLine($"Hi, I'm {person.Name}, and I'm {person.Age} years old.");
-        person.Name = "马七";
-        person.Age = 50;
-        Console.WriteLine($"Hi, I'm {person.Name}, and I'm {person.Age} years old.");
-
 
     }
 }
