@@ -45,7 +45,7 @@ public class Program
         Person person = new Person();
 
         person.Name = "王五";
-        person.Age = 30;
+        person.Age = 50;
 
         Console.WriteLine($"Hi, I'm {person.Name}, and I'm {person.Age} years old.");
     }
